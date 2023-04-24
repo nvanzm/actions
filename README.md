@@ -11,7 +11,7 @@ _Create a GitHub Action and use it in a workflow._
 
 <!--
   <<< Author notes: Start of the course >>>
-  Include start button, a note about Actions minutes,
+  Include start button, aawd note about Actions minutes,
   and tell the learner why they should take the course.
   Each step should be wrapped in <details>/<summary>, with an `id` set.
   The start <details> should have `open` as well.
@@ -141,7 +141,7 @@ In this step of our exercise, we will add a "build" job. We will specify `ubuntu
   Define terms and link to docs.github.com.
 -->
 
-<details id=3>
+<details id=3 open>
 <summary><h2>Step 3: Add actions to your workflow file</h2></summary>
 
 _Nice work adding a job to your workflow! :dancer:_
